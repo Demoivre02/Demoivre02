@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCmR6X6tVXz0YoIZN6E9KnOwUetkbW-BqIqQ&usqp=CAU)
+![MasterHead](https://cdn.wallpapersafari.com/76/28/HqzPwk.gif)
 <h1 align="center">Hi 👋, I'm David Animasaun</h1>
 <h3 align="center">A passionate frontend developer from Nigeria.</h3>
 <img alt="coding image" align="right" width="400"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZn75l0BuEvcBp5frWu6UAAwDQoO66Tj46kA&usqp=CAU" />
