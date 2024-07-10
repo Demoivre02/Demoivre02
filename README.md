@@ -1,27 +1,26 @@
 
 <h1 align="center">Hi 👋, I'm David Animasaun</h1>
-<h3 align="center">A passionate frontend developer from Nigeria.</h3>
+<h3 align="center">Machine learning and software Engineer  </h3>
 <!-- <img alt="coding image" align="right" width="400"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZn75l0BuEvcBp5frWu6UAAwDQoO66Tj46kA&usqp=CAU" /> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demoivre02&label=Profile%20views&color=0e75b6&style=flat" alt="demoivre02" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@davidcancode" target="blank"><img src="https://img.shields.io/twitter/follow/@davidcancode?logo=twitter&style=for-the-badge" alt="@davidcancode" /></a> </p>
 
-- 🔭 I’m currently working on **MoveIt**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently into **Deep learning**
 
-- 👯 I’m looking to collaborate on **any project that solves everyday problem**
+- 👯 I’m looking to collaborate on **Machine learning and Artificial intelligence programs and projects**
 
-- 📝 I regularly write articles on [https://davidwrites.hashnode.dev/](https://davidwrites.hashnode.dev/)
+- 📝 I regularly write articles on [https://davidwrites.hashnode.dev/](https://davidwrites.hashnode.dev/) and [https://medium.com/@davidtimilehin739](https://medium.com/@davidtimilehin739)
 
-- 💬 Ask me about **Web development, Mobile development ,technical writing.**
+- 💬 Ask me about **Web development, Artificial Intelligence , technical writing.**
 
 - 📫 How to reach me **davidtimilehin739@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1qJi4o_eIA9MTY-nbRTCjiw57MtSoV919PH9gTZDcvGs/edit?usp=sharing](https://docs.google.com/document/d/1qJi4o_eIA9MTY-nbRTCjiw57MtSoV919PH9gTZDcvGs/edit?usp=sharing)
 
-- ⚡ Fun fact **I am a very very very nice person**
+- ⚡ Fun fact **Jesus Boy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
